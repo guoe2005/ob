@@ -107,7 +107,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Untitled.md"
+          }
         }
       },
       {
@@ -134,6 +136,7 @@
   },
   "active": "e36eaaf1c1661dc0",
   "lastOpenFiles": [
+    "Untitled.md",
     "Diary"
   ]
 }
