@@ -125,6 +125,14 @@
           "type": "git-view",
           "state": {}
         }
+      },
+      {
+        "id": "290c9e0462ef7aa3",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
     "currentTab": 3
@@ -137,7 +145,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7958b00848286f10",
