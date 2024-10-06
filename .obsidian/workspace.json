@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nix/Rust.md",
+                "file": "Diary/2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nix/Rust.md",
+                "file": "Diary/2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nix/Rust.md",
+                "file": "Diary/2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nix/Rust.md"
+                "file": "Diary/2024.md"
               }
             }
           },
@@ -168,12 +168,12 @@
   },
   "active": "1502bf8041c203d4",
   "lastOpenFiles": [
+    "Nix/Rust.md",
+    "Diary/2024.md~",
     "Nix/Rust.md~",
     "Diary/2024.md",
-    "Nix/Rust.md",
     "Nix",
     "Rust.md",
-    "Diary/2024.md~",
     "Diary"
   ]
 }
