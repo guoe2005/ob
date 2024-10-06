@@ -15,6 +15,7 @@
               "state": {
                 "file": "Diary/2024.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -141,7 +142,6 @@
     "hiddenItems": {
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
@@ -152,6 +152,11 @@
   },
   "active": "68ceff308f8881ff",
   "lastOpenFiles": [
+    "Nix/Rust.md",
+    "/Diary/2024.md",
+    "/Nix/Rust.md",
+    "Nix",
+    "/Nix",
     "Tasks Plugin - Review and check your Statuses 2024-10-06 00-39-29.md",
     "Tasks Plugin - Review and check your Statuses 2024-10-06 00-39-28.md",
     "Tasks Plugin - Review and check your Statuses 2024-10-06 00-39-25.md",
@@ -161,7 +166,6 @@
     "Tasks Plugin - Review and check your Statuses 2024-10-06 00-39-18.md",
     "Diary/2024.md",
     "Untitled.md",
-    "/Diary/2024.md",
     "Diary"
   ]
 }
