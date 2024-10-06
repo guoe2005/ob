@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024.md",
+                "file": "Nix/Rust.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024.md",
+                "file": "Nix/Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024.md",
+                "file": "Nix/Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024.md"
+                "file": "Nix/Rust.md"
               }
             }
           },
@@ -135,6 +136,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "dded4976c15f7c1a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -147,8 +156,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "random-note:开始漫游笔记": false,
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
@@ -156,10 +166,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aaeb55aa0e3aa09b",
+  "active": "1502bf8041c203d4",
   "lastOpenFiles": [
-    "Diary/2024.md~",
+    "Nix/Rust.md~",
     "Diary/2024.md",
+    "Nix/Rust.md",
+    "Nix",
+    "Rust.md",
+    "Diary/2024.md~",
     "Diary"
   ]
 }
