@@ -1,1 +1,2 @@
 - linux from scrarch
+- Driver = mwwifiex pcie
